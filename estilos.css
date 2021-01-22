@@ -48,5 +48,11 @@ p {
 	padding: 20px;
 }
 
+.texto {
+	font: 15px "arial", "bold", sans-serif;
+	color: black;
+	padding: 10px;
+}
+
 
 
