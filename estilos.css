@@ -13,7 +13,7 @@ body {
 }
 
 #menu {
-	background: #DEDEDE;
+	background: #F7E0E0;
 	color: #262626;
 	padding: 20px;
 	
@@ -22,8 +22,11 @@ body {
 .titulo {
 	font: 15px "arial", "bold", sans-serif;
 	color: #6D6C6C;
+	padding: 10px;
+}
+
+div {
 	background: white;
-	padding: 1px;
 }
 
 p {
@@ -31,4 +34,19 @@ p {
 	color: black;
 	background: white;
 }
+
+.borda {
+	border: 20px solid #C09A9A;
+	width: 640px;
+	height: 425px;
+}
+
+.direitos {
+	background-image: url("imagens/fundo.png");
+	font: bold 12px "arial", "bold", sans-serif;
+	text-align: center;
+	padding: 20px;
+}
+
+
 
