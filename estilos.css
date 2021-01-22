@@ -1,0 +1,34 @@
+a:link {text-decoration: none;color: #262626}
+a:active {text-decoration: none;}
+a:visited {text-decoration: none;color: #262626}
+a:hover {text-decoration: underline;color: #B35067}
+
+body {
+	background: #DEDEDE url('imagens/fundo.png');
+	font: bold 20px "Monaco","Courier New", monospace;
+}
+
+#principal {
+	width: 900px;
+}
+
+#menu {
+	background: #DEDEDE;
+	color: #262626;
+	padding: 20px;
+	
+}
+
+.titulo {
+	font: 15px "arial", "bold", sans-serif;
+	color: #6D6C6C;
+	background: white;
+	padding: 1px;
+}
+
+p {
+	font: 14px "arial", "bold", sans-serif;
+	color: black;
+	background: white;
+}
+
